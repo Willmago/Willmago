@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Willmago
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning gamemaker
-- 💞️ I’m looking to collaborate on making games
+- 👾 I’m looking to collaborate on making games
 
 
 <!---
